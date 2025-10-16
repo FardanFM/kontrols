@@ -1,10 +1,14 @@
 [
   {
-    "username": "dontol",
-    "number": "6282120627665"
+    "username": "dan",
+    "password": "dan"
   },
   {
-    "username": "memeg", 
-    "number": "6283151785747"
+    "username": "fardan",
+    "password": "ganteng"
+  },
+  {
+    "username": "alice",
+    "password": "bot123"
   }
 ]
